@@ -28,18 +28,19 @@ Deep learning models applied to EEG signals on tensorflow 2.x
 1. Clone this repo.
 
 ```
-git clone https://github.com/UN-GCPDS/python-gcpds.EEG_Tensorflow_models
+git clone https://github.com/deathperminut/Repository_AUTOENCODERS.git
 ```
 
-2. Install repo.
-
-On personal laptop
-```
-pip install -e git+https://github.com/UN-GCPDS/python-gcpds.EEG_Tensorflow_models.git#egg=EEG_Tensorflow_models
-```
 On Google Colab
 ```
-pip install -U git+https://github.com/UN-GCPDS/python-gcpds.EEG_Tensorflow_models.git
+Install with the command pip:
+- braindecode
+- moabb
+- tensorflow_addons
+
+Import the MOABBDataset module:
+
+from braindecode.datasets import MOABBDataset
 ```
 ## Results
 
