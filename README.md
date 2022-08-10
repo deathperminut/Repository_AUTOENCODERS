@@ -9,5 +9,5 @@ Para usar en google colab
 2) importar la libreria para manejo de los datasets de EEG (MOABBDataset), mediante el siguiente comando:
 "from braindecode.datasets import MOABBDataset"
 3) Clonar este repositorio
-"!git clone URL DEL REPOSITORIO"
+"!git clone https://github.com/deathperminut/Repository_AUTOENCODERS.git"
 4) Utilizar el ejemplo como guia para ver la distribución de los metodos observados.
